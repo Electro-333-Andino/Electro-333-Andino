@@ -8,37 +8,26 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Embedded+Systems+Developer;Desarrollador+de+Sistemas+Embebidos;3D+Design+%26+Printing+Specialist;Linux+Power+User+(4%2B+years);Electronics+%26+Robotics+Educator;Docente+de+Electr%C3%B3nica+y+Rob%C3%B3tica)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Embedded+Systems+Developer;Desarrollador+de+Sistemas+Embebidos;3D+Design+%26+Printing+Specialist;Linux+Power+User+(4%2B+years);Electronics+%26+Robotics+Educator;Docente+de+Electr%C3%B3nica+y+Rob%C3%B3tica)](https://git.io/typing-svg)
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Electro-333-Andino&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS)](https://github.com/Electro-333-Andino)
 
 </div>
+
 ---
 
 ## 👨‍💻 About Me / Sobre mí
 
-```python
-class AndersonAndino:
-    role        = "Electronic Technologist & Maker / Tecnólogo Electrónico"
-    location    = "Ecuador 🇪🇨"
-    education   = "Tecnólogo Electrónico — Instituto Tecnológico Superior Tsáchila (2022)"
-    achievement = "🏆 Mejor Graduado de la Promoción II 2022"
+🇬🇧 Electronic technologist with 3+ years teaching electronics and robotics to 200+ students. Passionate about open hardware, embedded systems, and building things that actually work.
 
-    experience = {
-        "teaching / docencia": "3+ years · 200+ students in electronics & robotics",
-        "linux":               "4+ years daily driver — no Windows, no excuses",
-        "making":              "PCB design · 3D modeling · prototype development",
-    }
+🇪🇸 Tecnólogo electrónico con más de 3 años enseñando electrónica y robótica a más de 200 estudiantes. Apasionado por el hardware abierto, sistemas embebidos y construir cosas que realmente funcionen.
 
-    currently_learning = ["Advanced IoT architectures", "RTOS on STM32", "KiCad"]
-    open_to_work       = True
-```
-
-> 🇬🇧 Electronic technologist with 3+ years of experience teaching electronics and robotics to children and teenagers. Passionate about open hardware, making, and building things that actually work.
->
-> 🇪🇸 Tecnólogo electrónico con más de 3 años de experiencia enseñando electrónica y robótica a niños y adolescentes. Apasionado por el hardware abierto, el making y construir cosas que realmente funcionen.
+- 🏆 Mejor Graduado de la Promoción II 2022
+- 🐧 Linux daily driver — 4+ años como único sistema operativo
+- 📍 Ecuador 🇪🇨
+- 💼 Open to work / Disponible para trabajar
 
 ---
 
@@ -120,9 +109,9 @@ class AndersonAndino:
 ## 📚 Work Experience / Experiencia Laboral
 
 ```
-🏫 Robot Games Academy   │ Electronics & Robotics Teacher / Docente       │ 2023 – 2024
-🏫 WeMakers Academia     │ Teacher + Internship Coordinator / Docente      │ 2021 – 2023
-🛠️  Tu Tienda Maker       │ Electronics Technician / Técnico Electrónico    │ 2020 – 2021
+🏫 Robot Games Academy   │ Electronics & Robotics Teacher / Docente         │ 2023 – 2024
+🏫 WeMakers Academia     │ Teacher + Internship Coordinator / Docente        │ 2021 – 2023
+🛠️  Tu Tienda Maker       │ Electronics Technician / Técnico Electrónico      │ 2020 – 2021
 ```
 
 > 🇬🇧 Taught **200+ children and teenagers** · Designed curriculum · Coordinated university internships
@@ -162,4 +151,3 @@ class AndersonAndino:
 *🇪🇸 "Construye cosas. Enseña a otros. Rompe límites."*
 
 </div>
-

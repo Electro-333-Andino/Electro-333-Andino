@@ -2,21 +2,22 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Anderson%20Andino&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Electronic%20Technologist%20%7C%20Maker%20%7C%20Educator&descAlignY=58&descSize=18&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Embedded+Systems+Developer;Desarrollador+de+Sistemas+Embebidos;3D+Design+%26+Printing+Specialist;Linux+Power+User+(4%2B+years+%2F+a%C3%B1os);Electronics+%26+Robotics+Educator;Docente+de+Electr%C3%B3nica+y+Rob%C3%B3tica)](https://git.io/typing-svg)
+<br/>
+
+<img src="https://avatars.githubusercontent.com/Electro-333-Andino" width="120" height="120" alt="Anderson Andino" />
+
+<h3>Anderson Andino</h3>
+<p><em>Electronic Technologist · Maker · Educator · Ecuador 🇪🇨</em></p>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Embedded+Systems+Developer;Desarrollador+de+Sistemas+Embebidos;3D+Design+%26+Printing+Specialist;Linux+Power+User+(4%2B+years);Electronics+%26+Robotics+Educator;Docente+de+Electr%C3%B3nica+y+Rob%C3%B3tica)](https://git.io/typing-svg)
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Electro-333-Andino&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS)](https://github.com/Electro-333-Andino)
 
-<br/>
-
-<img src="https://avatars.githubusercontent.com/Electro-333-Andino" width="150" height="150" alt="Anderson Andino" />
-
-<br/>
-
-
 </div>
-
 ---
 
 ## 👨‍💻 About Me / Sobre mí

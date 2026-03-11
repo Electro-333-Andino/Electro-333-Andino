@@ -8,6 +8,15 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Electro-333-Andino&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS)](https://github.com/Electro-333-Andino)
 
+<br/>
+
+<img src="./profile.jpg" 
+     width="150" 
+     style="border-radius: 50%;" 
+     alt="Anderson Andino" />
+
+<br/>
+
 </div>
 
 ---

@@ -10,12 +10,10 @@
 
 <br/>
 
-<img src="./profile.jpeg" 
-     width="150" 
-     style="border-radius: 50%;" 
-     alt="Anderson Andino" />
+<img src="https://avatars.githubusercontent.com/Electro-333-Andino" width="150" height="150" alt="Anderson Andino" />
 
 <br/>
+
 
 </div>
 

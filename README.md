@@ -6,9 +6,6 @@
 
 <img src="https://avatars.githubusercontent.com/Electro-333-Andino" width="120" height="120" alt="Anderson Andino" />
 
-<h3>Anderson Andino</h3>
-<p><em>Electronic Technologist · Maker · Educator · Ecuador 🇪🇨</em></p>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Embedded+Systems+Developer;Desarrollador+de+Sistemas+Embebidos;3D+Design+%26+Printing+Specialist;Linux+Power+User+(4%2B+years);Electronics+%26+Robotics+Educator;Docente+de+Electr%C3%B3nica+y+Rob%C3%B3tica)](https://git.io/typing-svg)

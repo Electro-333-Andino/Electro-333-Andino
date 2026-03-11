@@ -114,9 +114,9 @@
 🛠️  Tu Tienda Maker      │ Electronics Technician / Técnico Electrónico      │ 2020 – 2021
 ```
 
-> 🇬🇧 Taught **200+ children and teenagers** · Designed curriculum · Coordinated university internships
+> 🇬🇧 Taught **200+ children and teenagers** · Academic advisor for university thesis projects · Coordinated university internships
 >
-> 🇪🇸 Enseñé a **más de 200 niños y adolescentes** · Diseñé currículos · Coordiné pasantías universitarias
+> 🇪🇸 Enseñé a **más de 200 niños y adolescentes** · Asesor en trabajos de titulación universitaria · Coordiné pasantías universitarias
 
 ---
 

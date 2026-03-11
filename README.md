@@ -109,9 +109,9 @@
 ## 📚 Work Experience / Experiencia Laboral
 
 ```
-🏫 Robot Games Academy   │ Electronics & Robotics Teacher / Docente         │ 2023 – 2024
+🏫 Robot Games Academy   │ Electronics & Robotics Teacher / Docente          │ 2023 – 2024
 🏫 WeMakers Academia     │ Teacher + Internship Coordinator / Docente        │ 2021 – 2023
-🛠️  Tu Tienda Maker       │ Electronics Technician / Técnico Electrónico      │ 2020 – 2021
+🛠️  Tu Tienda Maker      │ Electronics Technician / Técnico Electrónico      │ 2020 – 2021
 ```
 
 > 🇬🇧 Taught **200+ children and teenagers** · Designed curriculum · Coordinated university internships
